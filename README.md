@@ -12,6 +12,7 @@ road hazard reporting and visualization in Sukkur.
 - `backend/` — FastAPI server and database integration
 - `dashboard/` — React web dashboard
 - `docs/` — Project documentation and API specifications
+
 ## Technology Stack
 
 - Mobile: React Native and Expo
